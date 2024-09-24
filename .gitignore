@@ -1,6 +1,5 @@
 .env,
-.venv,
-data,
+.venv
 *.pyc
 scripts/mlruns
 notebooks/mlruns
