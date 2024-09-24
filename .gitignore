@@ -1,3 +1,6 @@
 .env,
 .venv,
 data,
+*.pyc
+scripts/mlruns
+notebooks/mlruns
